@@ -6,3 +6,5 @@ It has many features, including a deck list to browse through, a flashcard creat
 Website: https://sites.google.com/d/1RLeIPZkkupWcAKi9PaTFxVg-JU9pMY6b/p/1tT2rMyeMJ52B6XbxNDG1hMSkI9BuN5Ho/edit
 
 Github Pages: https://jolijass.github.io/studycorner/
+
+Video: https://youtu.be/-70FMRLC92k
